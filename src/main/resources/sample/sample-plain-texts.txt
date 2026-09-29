@@ -1,0 +1,9 @@
+hello123
+hello124
+password123
+finance-user-001
+resident-registration-number-sample
+birth-date-19900101
+bank-account-1234567890
+api-signature-message
+sensitive-personal-data
