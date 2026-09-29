@@ -12,7 +12,7 @@ cd crypto-lab-java
 mvn spring-boot:run
 ```
 
-브라우저에서 **http://localhost:8080**으로 접속하세요. 이미 8080 포트를 사용 중이면 `mvn spring-boot:run -Dspring-boot.run.arguments=--server.port=8081`로 실행할 수 있습니다.
+브라우저에서 http://localhost:8080 으로 접속하세요. 이미 8080 포트를 사용 중이면 `mvn spring-boot:run -Dspring-boot.run.arguments=--server.port=8081`로 실행할 수 있습니다.
 
 ## 학습 구성
 
